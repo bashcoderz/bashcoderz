@@ -1,7 +1,6 @@
 <div align="center">
 
 ```
-
 ┌──────────────────────────┐   bashcoders@linux
 │                          │   ------------------
 │                          │   OS: Arch / Ubuntu / Debian
@@ -17,7 +16,6 @@
                                 bash language, using our talents to solve
                                 daily Linux challenges — making Linux easy
                                 to use, even for new users.
-█
 ```
 
 </div>
@@ -31,7 +29,7 @@
 
 ---
 
-### What We Do
+### 🔴 What We Do
 
 - 🔴 Bash Scripting & Shell Automation
 - 🔴 Linux System Administration
