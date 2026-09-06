@@ -46,12 +46,12 @@
 
 ### What We Do
 
-  🔴 Bash Scripting & Shell Automation
-  🔴 Linux System Administration
-  🔴 Command-Line Tooling
-  🔴 Daily Linux Challenges & Walkthroughs
-  🔴 Open Source Contribution
-  🔴 Foundation-to-Advanced Linux Tutorials
+- 🔴 Bash Scripting & Shell Automation
+- 🔴 Linux System Administration
+- 🔴 Command-Line Tooling
+- 🔴 Daily Linux Challenges & Walkthroughs
+- 🔴 Open Source Contribution
+- 🔴 Foundation-to-Advanced Linux Tutorials
 
 > _"Join us on a journey of continuous learning and discovery — we stand by our belief in open-source projects."_
 
