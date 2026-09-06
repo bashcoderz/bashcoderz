@@ -56,7 +56,7 @@
   <img src="https://streak-stats.demolab.com/?user=bashcoderz&hide_border=true&theme=dark&background=0D1117&stroke=0D1117&ring=56D4DD&fire=F0A868&currStreakLabel=56D4DD" alt="GitHub Streak" height="165"/>
 </p>
 
-<p align="center"><i>Shows Total Contributions · Current Streak · Longest Streak.</i></p>
+<!-- <p align="center"><i>Shows Total Contributions · Current Streak · Longest Streak.</i></p> -->
 
 ---
 
