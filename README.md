@@ -1,24 +1,36 @@
 <div align="center">
 
 ```
-                *%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#%#
-                #%........................................*%      bashcoders@linux
-                ##                                        *%      ------------------
-                ##                                        *%      OS: Arch / Ubuntu / Debian
-                ##                                        *%      Shell: bash 5.x
-                ##                                        *%      Focus: Linux · Automation · CLI Tools
-                ##            .                           *%      Status: Building open-source, one script at a time
-                ##           .#*+-.                       *%
-                ##             .-+**+:                    *%      root@bashcoders:~$ whoami
-                ##              .-*##-                    *%      Bash Coders
-                ##            *#*+-.                      *%
-                ##            -.                          *%      root@bashcoders:~$ cat about.txt
-                ##                    +*******.           *%      A group of coders with deep knowledge of the
-                ##                                        *%      bash language, using our talents to solve
-                ##                                        *%      daily Linux challenges — making Linux easy
-                ##                                        *%      to use, even for new users.
-                #%........................................*%
-                *%########################################%#
+████████████████████████████████████████████████████████████   bashcoders@linux
+███                                                       ██   ------------------
+██                                                        ██   OS: Arch / Ubuntu / Debian
+██                                                        ██   Shell: bash 5.x
+██                                                        ██   Focus: Linux · Automation · CLI Tools
+██                                                        ██   Status: Building open-source, one script at a time
+██                                                        ██
+██                                                        ██   root@bashcoders:~$ whoami
+██                                                        ██   Bash Coders
+██                                                        ██
+██                                                        ██   root@bashcoders:~$ cat about.txt
+██                                                        ██   A group of coders with deep knowledge of the
+██                 ██                                     ██   bash language, using our talents to solve
+██                 ██████                                 ██   daily Linux challenges — making Linux easy
+██                      █████                             ██   to use, even for new users.
+██                       ████                             ██
+██                   █████                                ██
+██                 ████                                   ██
+██                                                        ██
+██                            ███████████                 ██
+██                                                        ██
+██                                                        ██
+██                                                        ██
+██                                                        ██
+██                                                        ██
+██                                                        ██
+██                                                        ██
+██                                                        ██
+██                                                        ██
+████████████████████████████████████████████████████████████
 ```
 
 </div>
@@ -32,14 +44,14 @@
 
 ---
 
-### 🔴 What We Do
+### What We Do
 
-- 🔴 Bash Scripting & Shell Automation
-- 🔴 Linux System Administration
-- 🔴 Command-Line Tooling
-- 🔴 Daily Linux Challenges & Walkthroughs
-- 🔴 Open Source Contribution
-- 🔴 Foundation-to-Advanced Linux Tutorials
+  🔴 Bash Scripting & Shell Automation
+  🔴 Linux System Administration
+  🔴 Command-Line Tooling
+  🔴 Daily Linux Challenges & Walkthroughs
+  🔴 Open Source Contribution
+  🔴 Foundation-to-Advanced Linux Tutorials
 
 > _"Join us on a journey of continuous learning and discovery — we stand by our belief in open-source projects."_
 
